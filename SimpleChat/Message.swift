@@ -10,4 +10,7 @@ import UIKit
 
 class Message: NSObject {
    
+    var body: String?
+    var timestamp: NSDate?
+    
 }

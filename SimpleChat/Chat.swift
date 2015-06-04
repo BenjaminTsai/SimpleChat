@@ -10,6 +10,8 @@ import UIKit
 
 class Chat: NSObject {
     
-
+    var sender: Account?
+    var receiver: Account?
+    var messages: [Message]?
    
 }
