@@ -5,23 +5,23 @@
 	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
 	<false/>
 	<key>IDESourceControlProjectIdentifier</key>
-	<string>7FEAC550-93EB-4A5A-ACB0-1B55D43555D7</string>
+	<string>87EF3E0B-77C6-416E-9301-EEFF7D8BACB0</string>
 	<key>IDESourceControlProjectName</key>
-	<string>SimpleChat</string>
+	<string>project</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
 		<key>39DB92D6D5A04D1AAC7A0F24B06D340080C65ECB</key>
-		<string>https://github.com/ibari/SimpleChat.git</string>
+		<string>github.com:BenjaminTsai/SimpleChat.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
-	<string>SimpleChat.xcodeproj</string>
+	<string>SimpleChat.xcodeproj/project.xcworkspace</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
 		<key>39DB92D6D5A04D1AAC7A0F24B06D340080C65ECB</key>
 		<string>../..</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
-	<string>https://github.com/ibari/SimpleChat.git</string>
+	<string>github.com:BenjaminTsai/SimpleChat.git</string>
 	<key>IDESourceControlProjectVersion</key>
 	<integer>111</integer>
 	<key>IDESourceControlProjectWCCIdentifier</key>

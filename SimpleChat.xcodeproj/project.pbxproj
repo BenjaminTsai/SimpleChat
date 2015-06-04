@@ -19,6 +19,9 @@
 		ABF6C6921B1FDF3B00831D91 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = ABF6C6911B1FDF3B00831D91 /* Images.xcassets */; };
 		ABF6C6951B1FDF3B00831D91 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = ABF6C6931B1FDF3B00831D91 /* LaunchScreen.xib */; };
 		ABF6C6A11B1FDF3B00831D91 /* SimpleChatTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = ABF6C6A01B1FDF3B00831D91 /* SimpleChatTests.swift */; };
+		ABF6C6AB1B1FE3A000831D91 /* Account.swift in Sources */ = {isa = PBXBuildFile; fileRef = ABF6C6AA1B1FE3A000831D91 /* Account.swift */; };
+		ABF6C6AD1B1FE3C300831D91 /* Chat.swift in Sources */ = {isa = PBXBuildFile; fileRef = ABF6C6AC1B1FE3C300831D91 /* Chat.swift */; };
+		ABF6C6AF1B1FE4F200831D91 /* Message.swift in Sources */ = {isa = PBXBuildFile; fileRef = ABF6C6AE1B1FE4F200831D91 /* Message.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -48,6 +51,9 @@
 		ABF6C69A1B1FDF3B00831D91 /* SimpleChatTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = SimpleChatTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		ABF6C69F1B1FDF3B00831D91 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		ABF6C6A01B1FDF3B00831D91 /* SimpleChatTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SimpleChatTests.swift; sourceTree = "<group>"; };
+		ABF6C6AA1B1FE3A000831D91 /* Account.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Account.swift; sourceTree = "<group>"; };
+		ABF6C6AC1B1FE3C300831D91 /* Chat.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Chat.swift; sourceTree = "<group>"; };
+		ABF6C6AE1B1FE4F200831D91 /* Message.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Message.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -85,6 +91,9 @@
 		9C2BB4E81B1FE0E6009DA00F /* Models */ = {
 			isa = PBXGroup;
 			children = (
+				ABF6C6AA1B1FE3A000831D91 /* Account.swift */,
+				ABF6C6AC1B1FE3C300831D91 /* Chat.swift */,
+				ABF6C6AE1B1FE4F200831D91 /* Message.swift */,
 			);
 			name = Models;
 			sourceTree = "<group>";
@@ -265,8 +274,11 @@
 				9C2BB4FE1B1FE253009DA00F /* EditProfileViewController.swift in Sources */,
 				9C2BB4EE1B1FE11C009DA00F /* ProfileViewController.swift in Sources */,
 				9C2BB4EC1B1FE10D009DA00F /* LoginViewController.swift in Sources */,
+				ABF6C6AD1B1FE3C300831D91 /* Chat.swift in Sources */,
 				9C2BB4FC1B1FE246009DA00F /* AddContactViewController.swift in Sources */,
 				9C2BB4F21B1FE187009DA00F /* ChatViewController.swift in Sources */,
+				ABF6C6AF1B1FE4F200831D91 /* Message.swift in Sources */,
+				ABF6C6AB1B1FE3A000831D91 /* Account.swift in Sources */,
 				ABF6C68B1B1FDF3B00831D91 /* AppDelegate.swift in Sources */,
 				9C2BB4F81B1FE21C009DA00F /* ChatListViewController.swift in Sources */,
 				9C2BB4FA1B1FE22C009DA00F /* ContactListViewController.swift in Sources */,
